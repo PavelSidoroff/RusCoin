@@ -1,0 +1,8 @@
+echo "# RusCoin" >> README.md 
+git init 
+git add README.md 
+git commit -m "02.03.2022" 
+git branch -M main 
+git remote add origin https://github.com/PavelSidoroff/RusCoin.git
+ git push - ты главный
+License 
